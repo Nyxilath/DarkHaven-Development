@@ -1,14 +1,17 @@
 - type: gameMapPool
   id: DefaultMapPool
   maps:
-  - Amber
-  - Bagel
-  - Box
-  - Elkridge
-  - Fland
-  - Marathon
-  - Oasis
-  - Packed
-  - Plasma
-  - Reach
-  - Exo
+  # DarkHaven - Start - Remove standard maps
+  # - Amber
+  # - Bagel
+  # - Box
+  # - Elkridge
+  # - Fland
+  # - Marathon
+  # - Oasis
+  # - Packed
+  # - Plasma
+  # - Reach
+  # - Exo
+  - DevHaven
+  # Darkhaven - End
