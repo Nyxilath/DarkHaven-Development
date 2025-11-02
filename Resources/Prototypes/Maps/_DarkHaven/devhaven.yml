@@ -1,0 +1,14 @@
+﻿- type: gameMap
+  id: DevHaven
+  mapName: DevHaven
+  mapPath: /Maps/_DarkHaven/devhaven.yml
+  minPlayers: 0
+  stations:
+    DevHaven:
+      stationProto: StandardNanotrasenStation
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: "DevHaven"
+      - type: StationJobs
+        availableJobs:
+          Captain: [ -1, -1 ]
