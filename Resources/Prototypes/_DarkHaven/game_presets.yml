@@ -1,0 +1,10 @@
+﻿- type: gamePreset
+  id: Peaceful
+  alias:
+  - peaceful
+  - DarkHavenGreenshift
+  - darkhavengreenshift
+  name: darkhaven-peaceful-title
+  showInVote: false #4boring4vote
+  description: darkhaven-peaceful-description
+  rules:
